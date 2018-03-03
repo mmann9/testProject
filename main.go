@@ -30,7 +30,7 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	fmt.Fprintln(w, "Hello, you saucy tart!")
+	fmt.Fprintln(w, "Hi, welcome to MatthewRMann.com!")
 }
 
 // [END indexHandler]
